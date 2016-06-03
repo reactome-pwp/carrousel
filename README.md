@@ -35,7 +35,7 @@ First add EBI Nexus repository in your pom.xml file
         </repository>
     </repositories>
 
-Then add the pdbe dependency
+Then add the carrousel dependency
 
     <dependencies>
         ...
