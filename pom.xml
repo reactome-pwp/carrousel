@@ -11,6 +11,27 @@
     <version>1.0.0</version>
     <name>Images carrousel used for documentation in the Reactome widgets ecosystem</name>
 
+    <developers>
+        <developer>
+            <id>ksidis</id>
+            <name>Kostas Sidiropoulos</name>
+            <email>ksidiro@ebi.ac.uk</email>
+            <roles>
+                <role>Author</role>
+            </roles>
+            <organization>http://www.ebi.ac.uk/</organization>
+        </developer>
+        <developer>
+            <id>fabregat</id>
+            <name>Antonio Fabregat</name>
+            <email>fabregat@ebi.ac.uk</email>
+            <roles>
+                <role>Author</role>
+            </roles>
+            <organization>http://www.ebi.ac.uk/</organization>
+        </developer>
+    </developers>
+
     <properties>
         <!-- Convenience property to set the GWT version -->
         <gwtVersion>2.8.0-beta1</gwtVersion>
