@@ -1,6 +1,5 @@
 # Reactome Documentation Carrousel
-With this fantastic widget you can add a great carrousel to show your marvellous work to your magnificent users!
-car
+With this fantastic widget you can add a great carrousel to show your marvellous work to your magnificent users :D
 
 <img src="img/carrousel.png " align="center" alt="carrousel example">
 
