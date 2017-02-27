@@ -3,8 +3,6 @@
     <!-- Inherit the core Web Toolkit stuff.                        -->
     <inherits name='com.google.gwt.user.User'/>
 
-    <inherits name='com.google.gwt.user.theme.standard.Standard'/>
-
     <!-- Other module inherits                                      -->
     <inherits name="org.reactome.web.carrousel.Carrousel"/>
 
