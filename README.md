@@ -58,7 +58,7 @@ Finally you need to inherit the module in your ```.gwt.xml``` file
 <inherits name="org.reactome.web.carrousel.Carrousel" />
 ```
       
-The Carrousel panel can be created as follow and then placed in the right placeholder  
+The Carrousel panel can be created as follows and then placed in the right placeholder  
         
 ```java        
 //We assume there is a RESOURCES instance of ClientBundle pointing to the images
