@@ -47,7 +47,7 @@ Then add the carrousel dependency
     <dependency>
         <groupId>org.reactome.web</groupId>
         <artifactId>carrousel</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.2</version>
     </dependency>
 <dependencies>
 ```
