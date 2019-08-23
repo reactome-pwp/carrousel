@@ -1,7 +1,6 @@
 [<img src=https://user-images.githubusercontent.com/6883670/31999264-976dfb86-b98a-11e7-9432-0316345a72ea.png height=75 />](https://reactome.org)
 
 # Reactome Carrousel Widget
-With this fantastic widget you can add a great carrousel to show your marvellous work to your magnificent users :smile:
 
 <img src="img/carrousel.png " align="center" alt="carrousel example">
 
