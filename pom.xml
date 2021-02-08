@@ -9,7 +9,8 @@
     <artifactId>carrousel</artifactId>
     <packaging>jar</packaging>
     <version>1.0.2</version>
-    <name>Reactome Carrousel</name>
+
+    <name>Carrousel</name>
 
     <description>
         Images carrousel used for documentation in the Reactome widgets ecosystem
