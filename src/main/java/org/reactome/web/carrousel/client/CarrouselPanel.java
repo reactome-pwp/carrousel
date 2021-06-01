@@ -149,6 +149,7 @@ public class CarrouselPanel extends FlowPanel {
 
 
     public static Resources RESOURCES;
+
     static {
         RESOURCES = GWT.create(Resources.class);
         RESOURCES.getCSS().ensureInjected();

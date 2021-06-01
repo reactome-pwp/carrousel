@@ -30,6 +30,7 @@ public class WidgetTest implements EntryPoint {
     }
 
     public static Resources RESOURCES;
+
     static {
         RESOURCES = GWT.create(Resources.class);
     }

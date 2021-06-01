@@ -28,7 +28,7 @@ public class Slide extends AbsolutePanel {
         getElement().getStyle().setColor(textColour);
     }
 
-    public Slide(ImageResource imageResource, String caption, String textColour, double fontSize){
+    public Slide(ImageResource imageResource, String caption, String textColour, double fontSize) {
         this.imageResource = imageResource;
         this.caption = new SimplePanel();
         this.caption.getElement().getStyle().setFontSize(fontSize, Style.Unit.PX);
@@ -43,7 +43,7 @@ public class Slide extends AbsolutePanel {
     }
 
     public void init(int width, int height) {
-        if(isInitialized) return;
+        if (isInitialized) return;
 
         Image image = new Image(imageResource);
         image.setWidth(width + "px");
@@ -70,6 +70,7 @@ public class Slide extends AbsolutePanel {
     }
 
     public static Resources RESOURCES;
+
     static {
         RESOURCES = GWT.create(Resources.class);
         RESOURCES.getCSS().ensureInjected();

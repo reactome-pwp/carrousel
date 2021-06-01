@@ -22,7 +22,7 @@ public class IconButton extends Button {
 
         fp = new FlowPanel();
         fp.add(image);
-        if(!text.isEmpty()) {
+        if (!text.isEmpty()) {
             label = new InlineLabel(text);
             fp.add(label);
         }
@@ -36,7 +36,7 @@ public class IconButton extends Button {
     }
 
     public void setText(String text) {
-        if(label!=null) {
+        if (label != null) {
             label.setText(text);
             updateHTML();
         }

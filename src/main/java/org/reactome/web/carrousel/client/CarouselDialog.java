@@ -73,8 +73,8 @@ public class CarouselDialog extends PopupPanel {
     }
 
 
-
     public static Resources RESOURCES;
+
     static {
         RESOURCES = GWT.create(Resources.class);
         RESOURCES.getCSS().ensureInjected();
